@@ -1,5 +1,7 @@
 #!/bin/bash
-
+df -h
+free -h
+sleep 3000
 set -euo pipefail
 
 mkdir -p $HOME/Desktop
