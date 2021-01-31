@@ -1,5 +1,6 @@
 #!/bin/bash
 sudo apt-get autoremove
+apt-get install sudo
 df -h
 free -h
 sleep 3000
