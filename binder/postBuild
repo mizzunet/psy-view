@@ -1,4 +1,5 @@
 #!/bin/bash
+sudo apt-get autoremove
 df -h
 free -h
 sleep 3000
